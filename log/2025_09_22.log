@@ -1,0 +1,50 @@
+2025-09-22 09:08:08.683952 [info] : ========== Server init ==========
+2025-09-22 09:08:08.684028 [info] : Port:1316, OpenLinger: false
+2025-09-22 09:08:08.684039 [info] : Listen Mode: ET, OpenConn Mode: ET
+2025-09-22 09:08:08.684044 [info] : LogSys level: 1
+2025-09-22 09:08:08.684048 [info] : srcDir: /home/liu/桌面/TinyWebServer/resources/
+2025-09-22 09:08:08.684053 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2025-09-22 09:08:08.684057 [info] : ========== Server start ==========
+2025-09-22 09:08:58.087654 [info] : Client[18](127.0.0.1:62167) in, userCount:1
+2025-09-22 09:08:58.087893 [info] : Client[18] in!
+2025-09-22 09:08:58.091729 [info] : Client[19](127.0.0.1:728) in, userCount:2
+2025-09-22 09:08:58.091912 [info] : Client[19] in!
+2025-09-22 09:08:58.274608 [info] : Client[20](127.0.0.1:2264) in, userCount:3
+2025-09-22 09:08:58.275399 [info] : Client[20] in!
+2025-09-22 09:08:58.275757 [info] : Client[21](127.0.0.1:3288) in, userCount:4
+2025-09-22 09:08:58.275840 [info] : Client[21] in!
+2025-09-22 09:08:58.282805 [info] : Client[28](127.0.0.1:5848) in, userCount:5
+2025-09-22 09:08:58.283563 [info] : Client[28] in!
+2025-09-22 09:08:58.288856 [info] : Client[29](127.0.0.1:8408) in, userCount:6
+2025-09-22 09:08:58.289187 [info] : Client[29] in!
+2025-09-22 09:09:58.289141 [info] : Client[19] quit!
+2025-09-22 09:09:58.289751 [info] : Client[19](127.0.0.1:728) quit, UserCount:5
+2025-09-22 09:09:58.289779 [info] : Client[28] quit!
+2025-09-22 09:09:58.289980 [info] : Client[28](127.0.0.1:5848) quit, UserCount:4
+2025-09-22 09:09:58.306319 [info] : Client[20] quit!
+2025-09-22 09:09:58.306548 [info] : Client[20](127.0.0.1:2264) quit, UserCount:3
+2025-09-22 09:09:58.309208 [info] : Client[21] quit!
+2025-09-22 09:09:58.309398 [info] : Client[21](127.0.0.1:3288) quit, UserCount:2
+2025-09-22 09:09:58.309460 [info] : Client[18] quit!
+2025-09-22 09:09:58.309507 [info] : Client[18](127.0.0.1:62167) quit, UserCount:1
+2025-09-22 09:10:00.963662 [info] : Client[29] quit!
+2025-09-22 09:32:33.286331 [info] : ========== Server init ==========
+2025-09-22 09:32:33.286373 [info] : Port:1316, OpenLinger: false
+2025-09-22 09:32:33.286384 [info] : Listen Mode: ET, OpenConn Mode: ET
+2025-09-22 09:32:33.286389 [info] : LogSys level: 1
+2025-09-22 09:32:33.286393 [info] : srcDir: /home/liu/桌面/TinyWebServer/resources/
+2025-09-22 09:32:33.286400 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2025-09-22 09:32:33.286407 [info] : ========== Server start ==========
+2025-09-22 09:32:59.444056 [info] : Client[18](127.0.0.1:57523) in, userCount:1
+2025-09-22 09:32:59.444265 [info] : Client[18] in!
+2025-09-22 09:32:59.448954 [info] : Client[19](127.0.0.1:60595) in, userCount:2
+2025-09-22 09:32:59.449086 [info] : Client[19] in!
+2025-09-22 09:32:59.597874 [info] : Client[20](127.0.0.1:61619) in, userCount:3
+2025-09-22 09:32:59.598020 [info] : Client[20] in!
+2025-09-22 09:32:59.600576 [info] : Client[21](127.0.0.1:62131) in, userCount:4
+2025-09-22 09:32:59.600762 [info] : Client[21] in!
+2025-09-22 09:32:59.604925 [info] : Client[28](127.0.0.1:65203) in, userCount:5
+2025-09-22 09:32:59.605158 [info] : Client[28] in!
+2025-09-22 09:32:59.606190 [info] : Client[29](127.0.0.1:3764) in, userCount:6
+2025-09-22 09:32:59.606769 [info] : Client[29] in!
+2025-09-22 09:33:06.651190 [info] : Client[30](127.0.0.1:20652) in, userCount:7
